@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "桜の子",
+  "base_artist": "カンザキイオリ",
+  "createdAt": "2025-12-28T10:06:32.915349Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "桜の子",
+      "artist": "カンザキイオリ",
+      "has_synced": false,
+      "path": "select/pl_01_桜の子_カンザキイオリ.txt"
+    }
+  ]
+}
